@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<students>
+  <stud id="1">
+    <name>Вася</name>
+    <group>ABC</group>
+  </stud>
+  <stud id="2">
+    <name>Петя</name>
+    <group>ABC</group>
+  </stud>
+</students>
