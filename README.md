@@ -1,6 +1,6 @@
 # Учебные коды программ для курса "Программирование на С++". Библиотека QT
 
-https://img.shields.io/tokei/lines/GitHub/ashtanyuk/QT-examples
+![Lines of code](https://img.shields.io/tokei/lines/GitHub/ashtanyuk/QT-examples)
 
 
 ## Список примеров
